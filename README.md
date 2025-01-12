@@ -33,4 +33,5 @@ Exit button to quit the game.
 
 ## Demo
 Here is a preview of the Tic Tac Toe game interface:
-![Game Demo](Demo.png)
+<img src="Demo.png" alt="Game Demo" width="400">
+
