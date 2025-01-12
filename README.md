@@ -30,3 +30,7 @@ Clean and modern design with vibrant colors.
 Player indicators showing current turns.
 Restart button to reset the game without refreshing the page.
 Exit button to quit the game.
+
+## Demo
+Here is a preview of the Tic Tac Toe game interface:
+![Game Demo](Demo.png)
